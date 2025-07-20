@@ -1,6 +1,6 @@
 # Insira um numero real, e depois mostre como um INT, ou seja, tudo depois da virgula/ponto
 # sera cancelado.
-# NOTA: Faça importando somente 1 funçao especifica e outra importando a biblioteca inteira.
+# NOTA: Faça importando somente 1 funçao especifica e outra importando a biblioteca inteira
 
 
 
